@@ -1,0 +1,18 @@
+type para saber el tipo de dato que se usa
+se tiene datos como:
+int = enteros
+float = decimales o numeros con coma flotante 
+string = cadenas de texto
+bool = true y false
+none = no tipo tipo / se usa para todo lo que no tenga un valor
+% modulo = para saber el resultado o reciduo de una division 
+-----------------datos complementarios----------------
+listas y arrays 
+------------------cast-----------------------
+conversion de tipos de datos 
+su puede usar las funciones:
+int()=para trasformar a numeros enteros
+float()=para trasformar a numeros decimales
+--------------------variables-----------------------
+las variables siempre empiezan con minusculas y sin espacios 
+las variables deben tener un nombre auto descriptivo
