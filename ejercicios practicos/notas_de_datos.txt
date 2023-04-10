@@ -1,0 +1,111 @@
+Funciones:
+
+
+
+print()- despliega el texto en pantalla
+
+int() - convierte datos a enteros
+
+float() - convierte datos a punto flotante
+
+type() - te dice tipo de dato que es
+
+input() - pide datos al usuario
+
+
+
+Tipos de datos:
+
+
+
+booleanos - True / False (uso de if, elif, else)
+
+enteros - números sin punto decimal (10)
+
+flotantes - números con punto (10.5)
+
+strings - letras y palabras (uso de comillas "")
+
+
+
+Variables:
+
+
+
+- pueden tener cualquier nombre
+
+- van espaciados por (underscore) (_)
+
+- sirven para almacenar valores dentro
+
+- no se escriben con mayúsculas ni números
+
+
+
+Comentarios:
+
+
+
+- sirven para dar descripciones del código
+
+- se escriben después de símbolo (#)
+
+- Puedes escribir tanto num como letras
+
+
+
+Operadores:
+
+
+
+=  operador de asignación
+
+#  comentarios
+
++  operador de adición
+
+-   operador de resta
+
+*  operador de multiplicación
+
+**  operador de potencia
+
+()  operador de agrupación
+
+/  operador de división
+
+//  operador de división entera
+
+%  operador modulo(residuo)
+
+==  operador de igualdad
+
+>  operador mayor que
+
+<  operador menor que
+
+
+
+import
+
+
+
+- sirve para hacer uso de bibliotecas de python y ocuparlas de ser necesario
+
+
+
+Operadores booleanos:
+
+
+
+or - si una de sus condiciones es True entonces se ejecutara el código
+
+
+
+and - si las dos condiciones son True entonces correrá el código
+
+
+
+not - niega el valor de la condición ( ex: 
+
+not True - sera False)
