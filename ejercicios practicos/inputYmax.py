@@ -1,0 +1,8 @@
+num1=int(input("Ingresa un numero\n"))
+num2=int(input("Ingresa un numero\n"))
+num3=int(input("Ingresa un numero\n"))
+m=max(num1,num2,num3)
+mi=min(num1,num2,num3)
+print(f"el numero mas grande de los tres es: {m}")
+print(f"el numero mas pequenio de los tres es: {mi}")
+print("El numrto mas grande entre {},{} y {} es {}, y el mas pequenio es {}".format(num1,num2,num3,m,mi))
