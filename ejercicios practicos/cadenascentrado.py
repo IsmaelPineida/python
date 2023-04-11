@@ -15,7 +15,7 @@ longitudcadena=len(texto)
 print(longitudcadena)
 #agregamos la longitud de la cadena y sumamos 37 para que se centre a 60 pixeles
 print(texto.center(longitudcadena+37,'-'))
-#agregar textos por la derecha y por la isquierda
+#agregar textos por la isquierda
 print(texto.ljust(80,'-'))
 #centrar textos a la derecha
 print(texto.rjust(80,'0'))
