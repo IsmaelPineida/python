@@ -1,0 +1,36 @@
+Eres un aventurero intrépido que ha sido capturado por un malvado mago y encerrado en una masmorra. A tu alrededor, las paredes de piedra gris y los pasillos oscuros te hacen sentir atrapado y aislado. Pero eres astuto y valiente, y estás decidido a escapar de esta prisión.
+
+Miras a tu alrededor y ves unos escombros quieres revisarlos?
+si o no 
+si~~ haz visto los escombros y encontraste una piedra verde fosforecente y la guardaste en tu bolsillo, fuerzas la puerta y sales al pacillo 
+no~~  fuerzas la puerta y sales al pacillo
+
+
+Tienes dos opciones puedes seguir el camino de la derecha o de la izquierda 
+D/I
+I~~tomas el camino de la izquierda y te encuentras con una puerta cerra, la cual tiene un mecanismo de cerradura complicado que requiere una llave especial Buscas la llave en la avitacion de alado, sigues adelante o tratas de forzar la puerta?
+BuscarLlave~~  encuentras un cofre en la habitacion decides forzarlo o seguir buscando
+F/Buscar
+F~~ el cofre no se abre y haces mucho ruido los guardias te escucharon y encontraron te matan fin del juego
+Buscar~~ dejas el cofre a un lado y encutras la llave especial de la puerta de la anterior sala y sales al pacillo y vuelves a la habitacion de la puerta con crradura especial
+usas la llave o fuerzas la puerta
+u/forzar 
+u~~ la puerta se abre y caminas hasta encontrar una soga y un gancho los cojes S/N 
+s~~ guardaste la soga y el gancho sigues adelante y ves un muro
+n~~ sigues adelante y ves un muro
+saltar el muro o usar la cuerda y el gancho 
+saltas el muro~~ pasas al otro lado, te caes y te rompes la pierna perdiste !!
+usas la cuerda si esta en el inventario ~~ unes la cuerda con el gancho y lo usas para escalar el muro pasas al otro lado y ves una luz usas el gancho para escalar hacia la luz y sales de la masmorra FELICIDADES SALISTE !!!
+ usas la cuerda no esta en el inventario~~ no tienes la cuerda ni el gancho saltas y pasas al otro lado, te caes y te rompes la pierna perdiste !!
+sigues adelante~~ te has encontrado con unos guardias quieres hablar con ellos y convencerles de que te dejen salir ?
+S/N 
+s y tienes la piedra verde~~ los guardias no te quieren ayudar porque no tienes nada a cambio pero les muestras la piedra verde y ellos aceptan te meten en un saco y te llevan hasta la salida
+FELICIDADES SALISTE DE LA MASSMORRA
+s y no tienes la piedra verde~~ los guardias no te quieren ayudar porque no tienes nada a cambio y como no les ofreces nada ellos te mantan moristes fin
+
+n~~ saltas y te quedas en el techo y los guardias pasan de ti y sales pero al salir haces mucho ruido y los guardias te ven y te matan Fin!!
+
+tratas de forzar la puerta ~~ la puerta empiza a brillar y hacer mucho ruido y explota y tu mueres
+
+
+ 
