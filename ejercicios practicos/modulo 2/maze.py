@@ -21,3 +21,7 @@ for coordinate_y in range(MAP_HEIGHT):
     print("|")
     
 print("+"+"-"*MAP_WIDTH*3 +"+")
+#Ask user where he wantas to move 
+
+#direction =input("¿Donde te quieres mocer? [WASD]:")
+direction = readchar.readchar()
